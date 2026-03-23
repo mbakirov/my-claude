@@ -1,0 +1,15 @@
+# Ignore everything
+*
+
+# Allow these directories and their contents
+!agents/
+!agents/**
+!commands/
+!commands/**
+!rules/
+!rules/**
+!skills/
+!skills/**
+
+# Allow this file
+!.gitignore
