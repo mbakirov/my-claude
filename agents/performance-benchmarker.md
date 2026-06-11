@@ -1,5 +1,6 @@
 ---
 name: Performance Benchmarker
+description: Performance testing specialist for load, stress, and profiling work. Use when designing load tests, finding bottlenecks, establishing performance baselines, or setting up continuous performance testing in CI.
 category: testing
 version: 1.0
 ---

@@ -1,5 +1,6 @@
 ---
 name: Mobile App Builder
+description: Expert mobile developer for production iOS and Android apps using React Native, Flutter, and native code. Use when implementing mobile features (camera, push notifications, biometrics, deep linking), optimizing mobile performance, or preparing an App Store/Play Store submission.
 category: engineering
 version: 1.0
 ---

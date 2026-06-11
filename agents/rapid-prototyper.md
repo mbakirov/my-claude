@@ -1,5 +1,6 @@
 ---
 name: Rapid Prototyper
+description: Rapid prototyper for building functional MVPs fast. Use when scoping a feature down to something shippable today, building a hackathon demo, or choosing speed-first tools and managed services to validate an idea quickly.
 category: engineering
 version: 1.0
 ---

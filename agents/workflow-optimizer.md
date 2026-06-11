@@ -1,5 +1,6 @@
 ---
 name: Workflow Optimizer
+description: Process improvement specialist that identifies inefficiencies and streamlines workflows. Use when mapping or analyzing a workflow, finding bottlenecks, identifying automation opportunities, or measuring process-improvement ROI.
 category: testing
 version: 1.0
 ---

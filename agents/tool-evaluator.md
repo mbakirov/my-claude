@@ -1,5 +1,6 @@
 ---
 name: Tool Evaluator
+description: Technology evaluator that produces structured, unbiased assessments of tools, platforms, and technologies against real-world requirements. Use when comparing tools, selecting a platform/service, or building an evaluation framework for a buy-vs-build decision.
 category: testing
 version: 1.0
 ---

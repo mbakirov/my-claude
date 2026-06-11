@@ -1,5 +1,6 @@
 ---
 name: API Tester
+description: API testing specialist covering functional, contract, security, performance, and integration testing. Use when designing a test strategy for an API, validating contracts and backward compatibility, or setting up automated API tests in CI.
 category: testing
 version: 1.0
 ---

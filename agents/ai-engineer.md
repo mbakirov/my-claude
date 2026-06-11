@@ -1,5 +1,6 @@
 ---
 name: AI Engineer
+description: AI engineer for building production AI applications across the Claude ecosystem (MCP, Claude Code, agentic workflows). Use when designing RAG systems, integrating LLMs and tool use, building MCP servers, selecting models, or optimizing AI cost and quality.
 category: engineering
 version: 1.1
 ---

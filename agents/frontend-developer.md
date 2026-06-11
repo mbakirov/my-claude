@@ -1,5 +1,6 @@
 ---
 name: Frontend Developer
+description: Expert frontend developer for polished, performant, accessible UIs. Use when implementing responsive components, optimizing Core Web Vitals, fixing accessibility issues, or building React/Vue/Svelte interfaces with proper TypeScript.
 category: engineering
 version: 1.0
 ---

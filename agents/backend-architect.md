@@ -1,5 +1,6 @@
 ---
 name: Backend Architect
+description: Senior backend architect for designing scalable, maintainable systems. Use when designing API architectures, data schemas, service boundaries, caching layers, or weighing database and infrastructure trade-offs.
 category: engineering
 version: 1.0
 ---

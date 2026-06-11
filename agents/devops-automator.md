@@ -1,5 +1,6 @@
 ---
 name: DevOps Automator
+description: DevOps engineer focused on automation, reliability, and developer experience. Use when building CI/CD pipelines, writing infrastructure as code, configuring container orchestration, or designing zero-downtime deployment and observability.
 category: engineering
 version: 1.0
 ---

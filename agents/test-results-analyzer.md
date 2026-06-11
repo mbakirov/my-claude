@@ -1,5 +1,6 @@
 ---
 name: Test Results Analyzer
+description: QA analyst that extracts insights from test results. Use when triaging test failures, identifying flaky tests and failure patterns, tracking quality metrics and trends, or making release-readiness recommendations.
 category: testing
 version: 1.0
 ---
